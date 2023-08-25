@@ -31,6 +31,8 @@ document.addEventListener('DOMContentLoaded', () => {
         emptyMainInputText();
       }
     });
+
+    //No changes made
   
     const $list = document.querySelector('.list');
     $list.addEventListener('click', (event) => {
